@@ -1,0 +1,1 @@
+export default function YoutubePage(){return <div>YouTube Page</div>}

@@ -1,0 +1,1 @@
+export default function TwitterPage(){return <div>Twitter Page</div>}
