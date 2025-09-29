@@ -61,6 +61,7 @@ cd SCRAPER-TEST-HUB
    python -m venv .venv
    source .venv/bin/activate   # macOS/Linux
    .venv\Scripts\activate      # Windows
+   uvicorn main:app --reload --port 8000
    ```
 
 3. Install dependencies:
